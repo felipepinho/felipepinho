@@ -4,15 +4,6 @@
 
 Sou profissional de TI com experiência em **Qualidade de Software**, análise de sistemas, melhoria de processos e garantia de qualidade em produtos digitais. Hoje estou aprofundando meus conhecimentos em tecnologias como Java, Spring, C#, JavaScript, TypeScript e Angular para aprimorar minha atuação como QA, fortalecer análises técnicas e contribuir melhor para a qualidade das aplicações.
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lfelipepinho/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lfelipepinho@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lfelipepinho)
-[![GitHub](https://img.shields.io/github/followers/felipepinho?label=GitHub&style=for-the-badge)](https://github.com/felipepinho)
-
-</div>
-
 ---
 
 ## Sobre mim
